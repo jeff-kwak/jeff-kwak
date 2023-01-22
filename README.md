@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeff-kwak
-- 👀 I’m interested in CQRS+ES, F#, C#, DDD, and Unity game programming
+- 👀 I’m interested in CQRS+ES, F#, C#, DDD, and Godot game programming
 - 🌱 I’m currently learning F#
 
 <!---
